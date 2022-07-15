@@ -1,2 +1,2 @@
-# linear-algebra
+# linear_algebra
 Linear Algebra Notes / Solutions
